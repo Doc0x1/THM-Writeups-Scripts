@@ -1,5 +1,4 @@
 import requests
-import base64
 import argparse
 from bs4 import BeautifulSoup as bs4
 
